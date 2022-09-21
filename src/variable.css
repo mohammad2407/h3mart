@@ -1,0 +1,7 @@
+#root{
+    --primary-headerbackground : #4b7ad3;
+    --primary-boxshadow: #c2b0d4;
+    --search-color : #ffc107;
+    --hover-color : rgb(236, 232, 232);
+    --button-color: rgb(83, 132, 224);
+}
